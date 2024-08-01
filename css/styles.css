@@ -658,7 +658,7 @@ section {
     height: auto;
 }
 
-.form-custom {
+input .form-custom {
     height: 32px;
     width: 100%;
 }
